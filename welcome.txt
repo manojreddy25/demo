@@ -1,2 +1,0 @@
-welcome to GIT
-this is a demo file
