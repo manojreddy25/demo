@@ -1,1 +1,1 @@
-# demo
+Write-Host "Hello, World!"
